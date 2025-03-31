@@ -1,8 +1,35 @@
-﻿bin/
-obj/
+﻿## Pliki konfiguracyjne środowisk IDE
+.idea/
 .vs/
 *.user
 *.suo
-*.swp
+
+## Build output
+bin/
+obj/
+out/
+
+## Pliki tymczasowe i cache
 *.log
-.env
+*.tmp
+*.cache
+*.dbmdl
+
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+## ASP.NET / .NET
+*.dll
+*.exe
+*.pdb
+
+## Rider
+.idea/
+*.sln.iml
+
+## Inne
+*.swp
+*.DS_Store
+Thumbs.db
