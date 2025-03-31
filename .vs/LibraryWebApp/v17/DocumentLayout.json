@@ -1,0 +1,671 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\data\\librarywebappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\data\\librarywebappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\migrations\\librarywebappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\migrations\\librarywebappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\migrations\\20231223142546_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\migrations\\20231223142546_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\migrations\\20240207063153_adjustpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\migrations\\20240207063153_adjustpriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\librarywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\librarywebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\librarywebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\librarywebapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|c:\\users\\mjbar\\downloads\\librarywebapp-asp.net-core-main\\librarywebapp-asp.net-core-main\\librarywebapp\\migrations\\20240207164113_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC15634D-6F18-47D6-B986-72DB4BC58621}|LibraryWebApp\\LibraryWebApp.csproj|solutionrelative:librarywebapp\\migrations\\20240207164113_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T20:34:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T20:34:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T00:54:47.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T18:18:21.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryWebApp\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAGUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:47:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "LibraryWebApp\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:47:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:49:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwDkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T06:59:10.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T00:54:46.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Books\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T00:54:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T01:09:19.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T01:09:28.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Program.cs",
+              "RelativeToolTip": "LibraryWebApp\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:44:55.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T17:23:53.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Books\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T00:54:47.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T00:54:48.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T17:23:54.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T16:46:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T17:23:52.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T07:01:22.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T16:46:27.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "LibraryWebApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "LibraryWebApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-07T16:43:01.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T16:46:30.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240207164113_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\20240207164113_AddIdentity.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Migrations\\20240207164113_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\20240207164113_AddIdentity.cs",
+              "RelativeToolTip": "LibraryWebApp\\Migrations\\20240207164113_AddIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T16:41:13.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LibraryWebAppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\LibraryWebAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Migrations\\LibraryWebAppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\LibraryWebAppContextModelSnapshot.cs",
+              "RelativeToolTip": "LibraryWebApp\\Migrations\\LibraryWebAppContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:49:46.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LibraryWebAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Data\\LibraryWebAppContext.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Data\\LibraryWebAppContext.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Data\\LibraryWebAppContext.cs",
+              "RelativeToolTip": "LibraryWebApp\\Data\\LibraryWebAppContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:49:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T07:00:23.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20231223142546_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\20231223142546_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Migrations\\20231223142546_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\20231223142546_InitialCreate.cs",
+              "RelativeToolTip": "LibraryWebApp\\Migrations\\20231223142546_InitialCreate.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:49:45.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\appsettings.json",
+              "RelativeToolTip": "LibraryWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-07T00:49:51.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LibraryWebApp",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\LibraryWebApp.csproj",
+              "RelativeDocumentMoniker": "LibraryWebApp\\LibraryWebApp.csproj",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\LibraryWebApp.csproj",
+              "RelativeToolTip": "LibraryWebApp\\LibraryWebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-07T01:09:10.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\libman.json",
+              "RelativeDocumentMoniker": "LibraryWebApp\\libman.json",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\libman.json",
+              "RelativeToolTip": "LibraryWebApp\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-07T06:23:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T01:12:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240207063153_AdjustPricePrecision.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\20240207063153_AdjustPricePrecision.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Migrations\\20240207063153_AdjustPricePrecision.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Migrations\\20240207063153_AdjustPricePrecision.cs",
+              "RelativeToolTip": "LibraryWebApp\\Migrations\\20240207063153_AdjustPricePrecision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T06:31:53.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-07T06:59:12.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Models\\SeedData.cs",
+              "RelativeToolTip": "LibraryWebApp\\Models\\SeedData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T00:51:25.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LibraryWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\LibraryWebApp.csproj",
+              "RelativeDocumentMoniker": "LibraryWebApp\\LibraryWebApp.csproj",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\LibraryWebApp.csproj",
+              "RelativeToolTip": "LibraryWebApp\\LibraryWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-07T01:04:59.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryWebApp\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T01:04:15.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryWebApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryWebApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T01:04:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "LibraryWebApp\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "LibraryWebApp\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-02-07T00:49:32.314Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LibraryWebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mjbar\\Downloads\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp-ASP.NET-Core-main\\LibraryWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LibraryWebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-07T00:49:28.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
